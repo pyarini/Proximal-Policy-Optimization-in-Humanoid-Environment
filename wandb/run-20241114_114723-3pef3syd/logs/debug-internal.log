@@ -1,0 +1,10 @@
+{"time":"2024-11-14T11:47:23.455783523-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-14T11:47:23.45580994-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241114_114723-3pef3syd/logs/debug-core.log"}
+{"time":"2024-11-14T11:47:23.573085986-05:00","level":"INFO","msg":"created new stream","id":"3pef3syd"}
+{"time":"2024-11-14T11:47:23.573158548-05:00","level":"INFO","msg":"stream: started","id":"3pef3syd"}
+{"time":"2024-11-14T11:47:23.573214388-05:00","level":"INFO","msg":"sender: started","stream_id":"3pef3syd"}
+{"time":"2024-11-14T11:47:23.573183896-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"3pef3syd"}}
+{"time":"2024-11-14T11:47:23.573214876-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"3pef3syd"}}
+{"time":"2024-11-14T11:47:23.832536169-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-14T11:47:23.834482372-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-14T11:47:34.031460482-05:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}

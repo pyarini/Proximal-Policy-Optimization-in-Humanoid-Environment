@@ -1,0 +1,21 @@
+{"time":"2024-11-13T13:37:26.498282857-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-13T13:37:26.498305654-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241113_133726-n0gztd7k/logs/debug-core.log"}
+{"time":"2024-11-13T13:37:26.615582234-05:00","level":"INFO","msg":"created new stream","id":"n0gztd7k"}
+{"time":"2024-11-13T13:37:26.615644592-05:00","level":"INFO","msg":"stream: started","id":"n0gztd7k"}
+{"time":"2024-11-13T13:37:26.615737059-05:00","level":"INFO","msg":"sender: started","stream_id":"n0gztd7k"}
+{"time":"2024-11-13T13:37:26.615726544-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"n0gztd7k"}}
+{"time":"2024-11-13T13:37:26.615750184-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"n0gztd7k"}}
+{"time":"2024-11-13T13:37:26.863496034-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-13T13:37:26.898610679-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-13T13:37:28.657950608-05:00","level":"INFO","msg":"stream: closing","id":"n0gztd7k"}
+{"time":"2024-11-13T13:37:28.658000388-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-13T13:37:28.658711051-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-13T13:37:37.057490713-05:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2024-11-13T13:37:37.143273908-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-13T13:37:37.143298469-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-13T13:37:37.143306349-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-13T13:37:37.397447131-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-13T13:37:37.506982686-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"n0gztd7k"}}
+{"time":"2024-11-13T13:37:37.50705691-05:00","level":"INFO","msg":"sender: closed","stream_id":"n0gztd7k"}
+{"time":"2024-11-13T13:37:37.50705584-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"n0gztd7k"}}
+{"time":"2024-11-13T13:37:37.507986451-05:00","level":"INFO","msg":"stream: closed","id":"n0gztd7k"}

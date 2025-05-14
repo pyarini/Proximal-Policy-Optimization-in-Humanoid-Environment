@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/usr4/ugrad/pshaik/UCB_hyperparams.py", line 114, in <module>
+    arm_index = ucb_hyperparam.sample_base_index()
+  File "/usr4/ugrad/pshaik/UCB_hyperparams.py", line 73, in sample_base_index
+    index = self.ucb_algorithm.get_ucb_arm(self.confidence_radius)
+  File "/usr4/ugrad/pshaik/UCB_hyperparams.py", line 31, in get_ucb_arm
+    ucb_arm_index = random.choice(range(self.num_arms))
+NameError: name 'random' is not defined

@@ -1,0 +1,9 @@
+{"time":"2024-11-07T21:36:02.255872255-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T21:36:02.255898382-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241107_213602-w79azqrm/logs/debug-core.log"}
+{"time":"2024-11-07T21:36:02.415789754-05:00","level":"INFO","msg":"created new stream","id":"w79azqrm"}
+{"time":"2024-11-07T21:36:02.415856693-05:00","level":"INFO","msg":"stream: started","id":"w79azqrm"}
+{"time":"2024-11-07T21:36:02.415956436-05:00","level":"INFO","msg":"sender: started","stream_id":"w79azqrm"}
+{"time":"2024-11-07T21:36:02.415948027-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"w79azqrm"}}
+{"time":"2024-11-07T21:36:02.415996559-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"w79azqrm"}}
+{"time":"2024-11-07T21:36:02.677785544-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T21:36:02.68009911-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}

@@ -1,0 +1,12 @@
+{"time":"2024-11-05T14:51:38.605343092-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T14:51:38.60536686-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241105_145138-yu36qa59/logs/debug-core.log"}
+{"time":"2024-11-05T14:51:38.722293352-05:00","level":"INFO","msg":"created new stream","id":"yu36qa59"}
+{"time":"2024-11-05T14:51:38.722338643-05:00","level":"INFO","msg":"stream: started","id":"yu36qa59"}
+{"time":"2024-11-05T14:51:38.722493741-05:00","level":"INFO","msg":"sender: started","stream_id":"yu36qa59"}
+{"time":"2024-11-05T14:51:38.722433149-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yu36qa59"}}
+{"time":"2024-11-05T14:51:38.722490216-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yu36qa59"}}
+{"time":"2024-11-05T14:51:38.941588288-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T14:51:38.943348457-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-05T14:51:49.165031196-05:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2024-11-05T15:09:24.327634326-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/parin-sk22-boston-university/cleanRL/yu36qa59/file_stream"}
+{"time":"2024-11-05T15:09:24.381878575-05:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/parin-sk22-boston-university/cleanRL/yu36qa59/file_stream: {\"error\":\"run cleanRL/yu36qa59 not found while streaming file\"}"}

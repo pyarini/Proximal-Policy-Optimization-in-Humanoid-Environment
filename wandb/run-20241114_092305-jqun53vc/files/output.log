@@ -1,0 +1,39 @@
+/projectnb/modselrl/venvs/mynewenv/lib/python3.10/site-packages/gymnasium/envs/registration.py:517: DeprecationWarning: [33mWARN: The environment HalfCheetah-v4 is out of date. You should consider upgrading to version `v5`.[0m
+  logger.deprecation(
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=1000, episodic_return=[-548.78402092]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+global_step=2001, episodic_return=[-438.43501042]
+SPS: 876
+Traceback (most recent call last):
+  File "/usr4/ugrad/pshaik/ucb_ppo.py", line 254, in <module>
+    base_index = modsel.sample_base_index()
+  File "/usr4/ugrad/pshaik/ucbhyperparams.py", line 51, in sample_base_index
+    index = self.ucb_algorithm.get_ucb_arm(self.confidence_radius)
+  File "/usr4/ugrad/pshaik/UCBAlg.py", line 46, in get_ucb_arm
+    ucb_arm_values = np.array(ucb_arm_values)
+ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (10,) + inhomogeneous part.
+Traceback (most recent call last):
+  File "/usr4/ugrad/pshaik/ucb_ppo.py", line 254, in <module>
+    base_index = modsel.sample_base_index()
+  File "/usr4/ugrad/pshaik/ucbhyperparams.py", line 51, in sample_base_index
+    index = self.ucb_algorithm.get_ucb_arm(self.confidence_radius)
+  File "/usr4/ugrad/pshaik/UCBAlg.py", line 46, in get_ucb_arm
+    ucb_arm_values = np.array(ucb_arm_values)
+ValueError: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (10,) + inhomogeneous part.

@@ -1,0 +1,11 @@
+/projectnb/modselrl/venvs/mynewenv/lib/python3.10/site-packages/gymnasium/envs/registration.py:517: DeprecationWarning: [33mWARN: The environment HalfCheetah-v4 is out of date. You should consider upgrading to version `v5`.[0m
+  logger.deprecation(
+global_step=1000, episodic_return=[-548.78402092]
+Traceback (most recent call last):
+  File "/usr4/ugrad/pshaik/ucb_ppo.py", line 291, in <module>
+    episodic_return = info['episode']['r']
+NameError: name 'info' is not defined. Did you mean: 'infos'?
+Traceback (most recent call last):
+  File "/usr4/ugrad/pshaik/ucb_ppo.py", line 291, in <module>
+    episodic_return = info['episode']['r']
+NameError: name 'info' is not defined. Did you mean: 'infos'?

@@ -1,0 +1,28 @@
+{
+  "os":  "Linux-4.18.0-553.22.1.el8_10.x86_64-x86_64-with-glibc2.28",
+  "python":  "3.10.12",
+  "startedAt":  "2024-11-05T13:33:37.704360Z",
+  "program":  "/usr4/ugrad/pshaik/RL-HalfCheetah.py",
+  "codePath":  "RL-HalfCheetah.py",
+  "email":  "parin.sk22@gmail.com",
+  "root":  "/usr4/ugrad/pshaik",
+  "host":  "scc1",
+  "username":  "pshaik",
+  "executable":  "/projectnb/modselrl/venvs/mynewenv/bin/python",
+  "codePathLocal":  "RL-HalfCheetah.py",
+  "cpu_count":  32,
+  "cpu_count_logical":  32,
+  "disk":  {
+    "/":  {
+      "total":  "20957446144",
+      "used":  "13439717376"
+    }
+  },
+  "memory":  {
+    "total":  "268476887040"
+  },
+  "cpu":  {
+    "count":  32,
+    "countLogical":  32
+  }
+}

@@ -1,0 +1,10 @@
+{"time":"2024-11-05T09:27:33.066111157-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T09:27:33.066134772-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241105_092733-ndsa5qat/logs/debug-core.log"}
+{"time":"2024-11-05T09:27:33.185967546-05:00","level":"INFO","msg":"created new stream","id":"ndsa5qat"}
+{"time":"2024-11-05T09:27:33.186028873-05:00","level":"INFO","msg":"stream: started","id":"ndsa5qat"}
+{"time":"2024-11-05T09:27:33.186165489-05:00","level":"INFO","msg":"sender: started","stream_id":"ndsa5qat"}
+{"time":"2024-11-05T09:27:33.186125148-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ndsa5qat"}}
+{"time":"2024-11-05T09:27:33.186119185-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ndsa5qat"}}
+{"time":"2024-11-05T09:27:33.446007157-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T09:27:33.447433233-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-05T09:27:43.612786664-05:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}

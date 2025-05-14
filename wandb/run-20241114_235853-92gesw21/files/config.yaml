@@ -1,0 +1,91 @@
+_wandb:
+    value:
+        cli_version: 0.18.5
+        code_path: code/ucb_ppo.py
+        m: []
+        python_version: 3.10.12
+        t:
+            "1":
+                - 1
+                - 55
+            "2":
+                - 1
+                - 55
+            "3":
+                - 13
+                - 16
+                - 23
+                - 35
+                - 55
+            "4": 3.10.12
+            "5": 0.18.5
+            "8":
+                - 5
+            "12": 0.18.5
+            "13": linux-x86_64
+anneal_lr:
+    value: false
+batch_size:
+    value: 2048
+capture_video:
+    value: false
+clip_coef:
+    value: 0.2
+clip_vloss:
+    value: true
+cuda:
+    value: true
+ent_coef:
+    value: 0
+env_id:
+    value: HalfCheetah-v4
+exp_name:
+    value: ucb_ppo
+gae_lambda:
+    value: 0.95
+gamma:
+    value: 0.99
+hf_entity:
+    value: ""
+hparam_to_tune:
+    value: learning_rate
+learning_rate:
+    value: 0.001
+max_grad_norm:
+    value: 0.5
+minibatch_size:
+    value: 64
+norm_adv:
+    value: true
+num_base_learners:
+    value: 1
+num_envs:
+    value: 1
+num_iterations:
+    value: 488
+num_minibatches:
+    value: 32
+num_steps:
+    value: 2048
+save_model:
+    value: false
+seed:
+    value: 1
+target_kl:
+    value: null
+torch_deterministic:
+    value: true
+total_timesteps:
+    value: 1000000
+track:
+    value: true
+update_epochs:
+    value: 10
+upload_model:
+    value: false
+vf_coef:
+    value: 0.5
+wandb_entity:
+    value: null
+wandb_project_name:
+    value: UCB_Hyperparams_2

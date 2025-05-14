@@ -1,0 +1,20 @@
+{"time":"2024-11-07T21:20:54.365640221-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-07T21:20:54.365663709-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241107_212054-1gl8c1m2/logs/debug-core.log"}
+{"time":"2024-11-07T21:20:54.533012787-05:00","level":"INFO","msg":"created new stream","id":"1gl8c1m2"}
+{"time":"2024-11-07T21:20:54.533084836-05:00","level":"INFO","msg":"stream: started","id":"1gl8c1m2"}
+{"time":"2024-11-07T21:20:54.533206012-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"1gl8c1m2"}}
+{"time":"2024-11-07T21:20:54.533429397-05:00","level":"INFO","msg":"sender: started","stream_id":"1gl8c1m2"}
+{"time":"2024-11-07T21:20:54.533439199-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"1gl8c1m2"}}
+{"time":"2024-11-07T21:20:55.944893544-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-07T21:20:55.947379223-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-07T21:20:57.088128185-05:00","level":"INFO","msg":"stream: closing","id":"1gl8c1m2"}
+{"time":"2024-11-07T21:20:57.088188886-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-07T21:20:57.089181797-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-07T21:20:57.321403098-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-07T21:20:57.32142536-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-07T21:20:57.321433519-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-07T21:20:57.571306906-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-07T21:20:57.689856746-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"1gl8c1m2"}}
+{"time":"2024-11-07T21:20:57.689910029-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"1gl8c1m2"}}
+{"time":"2024-11-07T21:20:57.689927804-05:00","level":"INFO","msg":"sender: closed","stream_id":"1gl8c1m2"}
+{"time":"2024-11-07T21:20:57.690341312-05:00","level":"INFO","msg":"stream: closed","id":"1gl8c1m2"}

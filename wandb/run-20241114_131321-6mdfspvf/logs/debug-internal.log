@@ -1,0 +1,10 @@
+{"time":"2024-11-14T13:13:21.963353228-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-14T13:13:21.963377015-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241114_131321-6mdfspvf/logs/debug-core.log"}
+{"time":"2024-11-14T13:13:22.08115277-05:00","level":"INFO","msg":"created new stream","id":"6mdfspvf"}
+{"time":"2024-11-14T13:13:22.081201312-05:00","level":"INFO","msg":"stream: started","id":"6mdfspvf"}
+{"time":"2024-11-14T13:13:22.081300163-05:00","level":"INFO","msg":"sender: started","stream_id":"6mdfspvf"}
+{"time":"2024-11-14T13:13:22.081223504-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6mdfspvf"}}
+{"time":"2024-11-14T13:13:22.081243131-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6mdfspvf"}}
+{"time":"2024-11-14T13:13:22.381765619-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-14T13:13:22.383261874-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-14T13:13:32.574726848-05:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}

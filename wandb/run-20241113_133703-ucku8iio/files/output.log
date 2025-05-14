@@ -1,0 +1,14 @@
+/projectnb/modselrl/venvs/mynewenv/lib/python3.10/site-packages/gymnasium/envs/registration.py:517: DeprecationWarning: [33mWARN: The environment HalfCheetah-v4 is out of date. You should consider upgrading to version `v5`.[0m
+  logger.deprecation(
+Traceback (most recent call last):
+  File "/usr4/ugrad/pshaik/ucb_ppo.py", line 240, in <module>
+    modsel = UCBHyperparam(m)
+  File "/usr4/ugrad/pshaik/ucbhyperparams.py", line 38, in __init__
+    self.base_probas = np.ones(self.m)/(1.0*self.m)
+NameError: name 'np' is not defined
+Traceback (most recent call last):
+  File "/usr4/ugrad/pshaik/ucb_ppo.py", line 240, in <module>
+    modsel = UCBHyperparam(m)
+  File "/usr4/ugrad/pshaik/ucbhyperparams.py", line 38, in __init__
+    self.base_probas = np.ones(self.m)/(1.0*self.m)
+NameError: name 'np' is not defined

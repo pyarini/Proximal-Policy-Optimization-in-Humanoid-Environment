@@ -1,0 +1,10 @@
+{"time":"2024-11-15T09:51:04.915636731-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-15T09:51:04.915667016-05:00","level":"INFO","msg":"created symlink","path":"/usr4/ugrad/pshaik/wandb/run-20241115_095104-carva5zo/logs/debug-core.log"}
+{"time":"2024-11-15T09:51:05.05019971-05:00","level":"INFO","msg":"created new stream","id":"carva5zo"}
+{"time":"2024-11-15T09:51:05.050255326-05:00","level":"INFO","msg":"stream: started","id":"carva5zo"}
+{"time":"2024-11-15T09:51:05.050396593-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"carva5zo"}}
+{"time":"2024-11-15T09:51:05.05063888-05:00","level":"INFO","msg":"sender: started","stream_id":"carva5zo"}
+{"time":"2024-11-15T09:51:05.050639014-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"carva5zo"}}
+{"time":"2024-11-15T09:51:05.292023205-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-15T09:51:05.294201085-05:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-15T09:51:15.891712976-05:00","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
