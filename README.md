@@ -1,1 +1,1 @@
-# Proximal-Policy-Optimization-in-Humanoid-Environment
+This repository hosts all of the Python code I wrote as part of research I conducted in reinforcement learning. I leveraged the Gymnasium API to simulate a humanoid environment (namely, the Half-Cheetah environment) and iterated across various learning rates to 
